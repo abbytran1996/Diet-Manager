@@ -1,0 +1,87 @@
+Chicken Broth 35
+Lemon Grass 5
+Jasmine Rice 375
+Chicken 180
+Dill Carrot 15
+Fish Sauce 15
+Grilled Pork 245
+Noodle 285
+Pork Platter  650
+  Fish Sauce  15
+  Dill Carrot  15
+  Jasmine Rice  375
+  Grilled Pork  245
+Pho Noodle  505
+  Chicken Broth  35
+  Noodle  285
+  Chicken  180
+  Lemon Grass  5
+
+Noodle 285
+
+Pork Platter  650
+  Fish Sauce  15
+  Dill Carrot  15
+  Jasmine Rice  375
+  Grilled Pork  245
+
+Chicken Broth 35
+
+Chicken Broth 35
+
+Can't find such food in the database
+
+The given food is already in the database
+
+The given food is already in the database
+
+
+
+Chicken Broth 35
+Lemon Grass 5
+Jasmine Rice 375
+Chicken 180
+Dill Carrot 15
+Fish Sauce 15
+Grilled Pork 245
+Noodle 285
+Pork Platter  650
+  Fish Sauce  15
+  Dill Carrot  15
+  Jasmine Rice  375
+  Grilled Pork  245
+Pho Noodle  505
+  Chicken Broth  35
+  Noodle  285
+  Chicken  180
+  Lemon Grass  5
+Sausage Pork
+Chocolate 200
+Chicken Salad  195
+  Fish Sauce  15
+  Chicken  180
+
+2016-12-03: 
+  Chocolate  (1)
+2016-10-26: 
+  Pork Platter  (3)
+2016-09-25: 
+  Pho Noodle  (1)
+
+
+2016-12-05: 
+  Noodle  (1)
+2016-12-03: 
+  Chocolate  (1)
+2016-10-26: 
+  Fish Sauce  (1)
+  Pork Platter  (3)
+2016-09-25: 
+  Pho Noodle  (1)
+
+2016-12-05: 
+  Noodle  (1)
+
+2016-10-26: 
+  Pork Platter  (3)
+  Fish Sauce  (1)

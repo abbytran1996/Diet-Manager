@@ -1,0 +1,77 @@
+SWEN-250 Activity Journal
+Ruby – Diet Manager
+
+Name: My Tran
+
+================================================================
+Level 1 – Food DB Load – Start
+Estimated Time	02 00
+Plan for this level:
+- Implement each classes first.
+- Implement main.rb, parsing in command lines and analyze it using methods from other classes.
+
+Level 1 – Food DB Load – Complete
+Actual Time	04 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+- The FoodDB.txt should be hardcode in and the database should be built in FoodDB.rb
+- Using '<' for class inheritance in Ruby.
+- String indexing in Ruby will include the character of the last index number.
+
+================================================================
+Level 2 – Print & Find – Start
+Estimated Time  02 00
+Plan for this level:
+- Implements functions of FoodDB.rb
+- Make use of some Ruby String's built-in methods
+
+Level 2  – Print & Find – Complete
+Actual Time	02 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+- The string.downcase! will returns 'nil' if there's nothing changed.
+- Use String.start_with? method to test the prefix
+
+================================================================
+Level 3 – Database Update – Start
+Estimated Time	03 00
+Plan for this level:
+- Before add a recipe, check if all it's ingredients are in the database
+- Loop throught the new database to the changes
+
+Level 3 – Database Update  – Complete
+Actual Time	03 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+- Overwrite the file is actually erase all orginal text in the file 
+- It's better to have a to_string function.
+
+================================================================
+Level 4 – Logging Foods – Start
+Estimated Time	02 00
+Plan for this level:
+- Understand Date class of Ruby
+- Follow to format of FoodDB.rb
+
+Level 4 – Logging Foods – Complete
+Actual Time	03 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+- Create new date: Date.new(year, month, day) 
+- If the 'initialize' method is private, you can't directly change the data in the log
+
+================================================================
+Level 5 – Show & Delete – Start
+Estimated Time  
+Plan for this level: 02 00
+- Follow the 'save' function above
+
+Level 5 – Show & Delete – Complete
+Actual Time	02 00
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+Overall Summary
+Estimated Total Time	11 00
+Actual Total Time	14 00
+Project reflection:
+- Each function is really hard to write separate test cases for.
+- After the projects, I have understand a lot more about Ruby's syntax
+- To test 'main.rb', run 'test_command' one time. The expecting output is in the 'expected_output' file.
+- The original text files are saved separately too.

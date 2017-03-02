@@ -1,0 +1,10 @@
+Chicken Broth,b,35
+Lemon Grass,b,5
+Jasmine Rice,b,375
+Chicken,b,180
+Dill Carrot,b,15
+Fish Sauce,b,15
+Grilled Pork,b,245
+Noodle,b,285
+Pork Platter,r,Grilled Pork,Jasmine Rice,Dill Carrot,Fish Sauce
+Pho Noodle,r,Lemon Grass,Chicken,Noodle,Chicken Broth

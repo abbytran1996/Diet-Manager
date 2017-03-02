@@ -1,0 +1,41 @@
+print all
+.
+print Noodle
+.
+print Pork Platter
+.
+find chic
+.
+find CHI
+.
+find CHA
+.
+new food Chicken,180
+.
+new food Pho Noodle,Grilled Pork,Jasmine Rice,Dill Carrot,Fish Sauce
+.
+new food Sausage,Pork
+.
+new food Chocolate,200
+new recipe Chicken Salad,Chicken,Fish Sauce
+save
+.
+print all
+.
+show all
+.
+log Noodle
+log Fish Sauce,10/26/2016
+save
+.
+show all
+.
+show
+.
+show 10/26/2016
+.
+delete Pork Platter,10/26/2016
+.
+save
+.
+quit
